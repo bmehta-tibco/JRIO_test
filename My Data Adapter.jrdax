@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft WebStudioversion 3.0.0-SNAPSHOT -->
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+  <name>New JDBC Data Adapter</name>
+  <username>postgres</username>
+  <password>postgres</password>
+  <url>jdbc:postgresql://localhost:5432/foodmart</url>
+  <driver>org.postgresql.Driver</driver>
+</jdbcDataAdapter>
