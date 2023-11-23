@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft WebStudioversion JSSAAS-653-font-preview-SNAPSHOT -->
+<emptyDataAdapter class="net.sf.jasperreports.data.empty.EmptyDataAdapterImpl">
+  <name>New Empty Data Adapter</name>
+  <recordCount>10</recordCount>
+</emptyDataAdapter>
